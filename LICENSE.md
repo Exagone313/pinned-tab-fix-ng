@@ -1,5 +1,4 @@
-MIT License
-
+Copyright (c) 2022 Pinned Tabs Fix NG contributors
 Copyright (c) 2018 nralbrecht
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

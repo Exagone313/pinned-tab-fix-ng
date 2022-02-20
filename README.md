@@ -1,6 +1,6 @@
-# Pinned Tabs Fix
+# Pinned Tabs Fix NG
 
-Get the add-on from the [Mozilla add-on page](https://addons.mozilla.org/de/firefox/addon/pinned-tabs-fix/).
+Get the add-on from the [Mozilla add-on page](https://addons.mozilla.org/en-US/firefox/addon/pinned-tabs-fix-ng/).
 
 Tabs that are opened from a pinned one are opened at the far left of the tab bar. This gets problematic if you use a large amount of tabs because you start to jump from the left to the right end of your tab bar. Normally new tabs are opened on the right end - this add-on ensures that tabs from a pinned tab are opened on the right end, too.
 
