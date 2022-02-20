@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Pinned Tabs Fix NG",
-  "version": "2.3.1",
+  "version": "3.0.0",
 
   "description": "__MSG_extensionDescription__",
   "homepage_url": "https://github.com/Exagone313/pinned-tabs-fix-ng",
